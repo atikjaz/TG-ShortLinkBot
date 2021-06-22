@@ -10,7 +10,7 @@ Make a short link by using [Bit.ly](https://bit.ly/) API key Or With [Da.gd](htt
 Use [ShortLinkRobot](https://t.me/URLShortenRobot) with 10+ sites and inline Support !!
 
 #### The Simple Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/atikjaz/TG-ShortLinkBot)</br>
 
 #### Hard Way (VPS)
 * This is just a demo of commands to use
